@@ -4,3 +4,6 @@
 [submodule "libs/temp_sensor_exp"]
 	path = libs/temp_sensor_exp
 	url = https://github.com/aircrock/temp_sensor_exp.git
+[submodule "libs/temp_sensor_square"]
+	path = libs/temp_sensor_square
+	url = https://github.com/aircrock/temp_sensor_square.git
